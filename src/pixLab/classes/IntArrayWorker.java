@@ -34,7 +34,7 @@ public class IntArrayWorker
 		return total;
 	}
 
-	public int getCout(int column)
+	public int getCout(int numberToFind)
 	{
 		int count = 0;
 
